@@ -1,7 +1,5 @@
-Privacy Policy of Color Flood
-
-Overview
-
+<h2>Privacy Policy of Color Flood</h2>
+<h3>Overview</h3>
 <p>This privacy policy shows your use of the Color Flood for Facebook Instant Games 
 that was created by Talha Özdemir. The Application is a puzzle game. The purpose is painting whole board
 with same color.
